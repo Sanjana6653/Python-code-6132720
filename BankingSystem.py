@@ -28,8 +28,11 @@ class Bank:
             print("Balance not available")
 
     def deposit(self,money):
-        self.balance=self.balance+money
-        print(f'money deposited successfully and total available amount is {self.balance}')
+        if money>0:
+            self.balance=self.balance+money
+            print(f'money deposited successfully and total available amount is {self.balance}')
+        else:
+            print("Enter valid amount to deposit")
     def display(self):
         print(self.name,self.age,self.phone,self.balance)
     @classmethod
