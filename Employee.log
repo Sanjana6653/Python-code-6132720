@@ -1,0 +1,7 @@
+2026-02-13 00:11:40,092-INFO-Salary calculated for Sanjana: 60000.0 (HRA 20%, leave days 0)
+2026-02-13 00:11:40,092-INFO-Applied 2 leave day(s) deduction for Sanjana
+2026-02-13 00:11:40,092-INFO-Salary calculated for Sanjana: 56666.666666666664 (HRA 20%, leave days 2)
+2026-02-13 00:11:40,092-INFO-Payslip for Sanjana: Basic Salary 50000, HRA 20%, Leave Days 2, Net Salary 56666.666666666664
+2026-02-13 00:11:40,092-INFO-HRA percentage updated to 25%
+2026-02-13 00:11:40,092-INFO-Salary calculated for Sanjana: 59166.666666666664 (HRA 25%, leave days 2)
+2026-02-13 00:11:40,092-INFO-Payslip for Sanjana: Basic Salary 50000, HRA 25%, Leave Days 2, Net Salary 59166.666666666664

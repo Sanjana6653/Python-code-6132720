@@ -1,0 +1,5 @@
+2026-02-13 00:04:39,226-INFO-Sanjana booked 2 seat(s) on train 12345
+2026-02-13 00:04:39,226-INFO-Fare for Sanjana for 2 seat(s) on train 12345 is 1000
+2026-02-13 00:04:39,226-INFO-Base fare updated to 600
+2026-02-13 00:04:39,227-INFO-Fare for Sanjana for 2 seat(s) on train 12345 is 1200
+2026-02-13 00:04:39,227-INFO-Sanjana canceled ticket on train 12345

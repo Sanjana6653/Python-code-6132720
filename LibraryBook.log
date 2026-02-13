@@ -1,0 +1,7 @@
+2026-02-13 00:14:14,806-INFO-Book 'python' issued to sanjana for 5 days
+2026-02-13 00:14:14,807-WARNING-Attempted to issue book 'python' to rachu but it is already issued
+2026-02-13 00:14:44,244-INFO-Book 'python' issued to sanjana for 5 days
+2026-02-13 00:14:44,245-WARNING-Attempted to issue book 'python' to rachu but it is already issued
+2026-02-13 00:14:44,245-INFO-Book 'python' returned by sanjana
+2026-02-13 00:14:44,245-INFO-Fine for book 'python' kept 8 days by None is 40
+2026-02-13 00:14:44,245-INFO-Fine per day updated to 10
